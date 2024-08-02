@@ -1,4 +1,6 @@
 {
-  "settingsInheritedFrom": "upland-sandbox/whitesource-config@main"
+  "settingsInheritedFrom": "upland-sandbox/whitesource-config@main",
+  "enableRenovate": true,
+  "extends": ["config:recommended"]
 }
 
