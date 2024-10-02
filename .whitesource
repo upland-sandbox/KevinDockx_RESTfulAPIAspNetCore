@@ -1,6 +1,6 @@
 {
   "scanSettings: {
-    baseBranches: [dev]
+    baseBranches: ["dev"]
   },
   "settingsInheritedFrom": "upland-sandbox/whitesource-config@main",
     "remediateSettings": {
