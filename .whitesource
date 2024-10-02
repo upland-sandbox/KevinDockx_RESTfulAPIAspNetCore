@@ -1,7 +1,10 @@
 {
+  "scanSettings: {
+    baseBranches: [dev]
+  },
   "settingsInheritedFrom": "upland-sandbox/whitesource-config@main",
-"remediateSettings": {
-  "enableRenovate": true,
-  "extends": ["config:recommended"]
-}
+    "remediateSettings": {
+      "enableRenovate": true,
+      "extends": ["config:recommended"]
+    }
 }
