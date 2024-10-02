@@ -1,5 +1,5 @@
 {
-  "scanSettings: {
+  "scanSettings": {
     baseBranches: ["dev"]
   },
   "settingsInheritedFrom": "upland-sandbox/whitesource-config@main",
